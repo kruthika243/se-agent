@@ -1,6 +1,6 @@
 # Full Spec: FindIt – Campus Lost & Found Management System
 
-**Team:** Code Eagles  **Date:** November 19, 2026  **Committer:** TODO: Confirm team member responsible for final commit.
+**Team:** Code Eagles  **Date:** November 19, 2026  **Committer:** Kruthika Reddy Panchalingala
 
 > How to use this file: copy it to `docs/FULL_SPEC.md` in your fork. Fill every section. There is **no length limit** here (the Run Brief has one).
 > Put a name next to each section: that person owns it and can explain it without the AI.
